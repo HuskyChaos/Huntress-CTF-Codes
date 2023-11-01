@@ -1,4 +1,5 @@
 # batchfuscation
+# Make sure that this is in the same folder as batchfuscation file
 
 import os,subprocess
 prevLine=''
